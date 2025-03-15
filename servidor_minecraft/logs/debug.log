@@ -4466,3 +4466,67 @@
 [19:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
 [19:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
 [19:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
+[19:21:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
+[19:21:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:22:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:22:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
+[19:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:22:52] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:22:52] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:22:52] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:22:53] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:22:53] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[19:22:53] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[19:22:53] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:22:53] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[19:22:54] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:22:54] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[19:22:55] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:22:55] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[19:22:55] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:22:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:22:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:42153] logged in with entity id 166017 at (65.74368142353327, 72.0, 241.81509098550845)
+[19:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[19:22:56] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:23:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:24:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:24:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:25:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! 3.4142402611784064,-1.0,9.560768905538424
+[19:25:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:25:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
+[19:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:26:17] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:26:17] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:26:17] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:26:17] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:26:17] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:26:17] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[19:26:17] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:26:17] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[19:26:18] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:26:18] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[19:26:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:26:19] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[19:26:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:26:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:26:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:55507] logged in with entity id 170407 at (65.19928585259116, 72.0, 246.9698828461052)
+[19:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[19:26:19] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:26:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:27:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:27:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:28:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:28:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -3.3307762730060233,2.249187078744683,-9.383197172476969
+[19:28:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -10.087005021959015,-0.8378585789729982,-0.035576563561335206
+[19:29:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:29:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado was kicked for floating too long!
+[19:29:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Flying is not enabled on this server
+[19:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[19:29:53] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[19:29:53] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[19:29:53] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[19:29:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:47147] logged in with entity id 175626 at (65.08660152097787, 72.00133597911214, 247.8465637382601)
+[19:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[19:30:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:30:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:31:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
