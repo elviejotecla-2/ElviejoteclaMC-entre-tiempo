@@ -323,3 +323,11 @@
 [22:01:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:46525] logged in with entity id 393024 at (51.87847366472066, 70.0, 232.87977122197904)
 [22:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
 [22:01:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved wrongly!
+[22:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> awwdawdawdawdawdawdawdawdawdawdddwaawddwaawddwaawddwaawddwaawddwa
+[22:12:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
+[22:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[22:12:21] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[22:12:21] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[22:12:21] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[22:12:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:33413] logged in with entity id 407034 at (-27.086560362056332, 65.0, 234.32996882379993)
+[22:12:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
