@@ -191,3 +191,17 @@
 [19:48:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:60057] logged in with entity id 206949 at (550.5440079460966, 75.0, 137.9485097650836)
 [19:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
 [19:51:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado has made the advancement [What a Deal!]
+[19:52:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[19:52:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[19:52:26] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[19:52:26] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[19:52:26] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[19:52:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:58899] logged in with entity id 215183 at (67.00255813150591, 71.0, 232.69999998807907)
+[19:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[19:56:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
+[19:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[19:56:29] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[19:56:29] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[19:56:29] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[19:56:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:48655] logged in with entity id 220220 at (65.40971810318477, 75.67647087614428, 232.60026893069633)
+[19:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
