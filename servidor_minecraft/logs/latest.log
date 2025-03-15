@@ -79,3 +79,6 @@
 [17:13:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:39917] logged in with entity id 8322 at (553.095912620734, 75.0, 133.6906551896528)
 [17:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
 [17:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -2.1277009048408217,-9.603358372205882,2.3128573647764625
+[17:31:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -7.218086826661988,16.338233247578913,4.039940077813014
+[17:32:10] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -7.925619362467728,-7.835633417805809,14.921836176129403
+[17:32:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -2.8340436455481495,8.05854165529982,15.876689559886245
