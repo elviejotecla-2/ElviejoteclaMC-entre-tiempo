@@ -256,3 +256,28 @@
 [21:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
 [21:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> cv puto el roqui
 [21:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> gg
+[21:25:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue was kicked for floating too long!
+[21:25:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Flying is not enabled on this server
+[21:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[21:26:02] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:26:02] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[21:26:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:26:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:35979] logged in with entity id 353424 at (16.842365366791256, 66.7531999805212, 239.362641582482)
+[21:26:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[21:26:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
+[21:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[21:26:35] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[21:26:35] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[21:26:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:26:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:58239] logged in with entity id 354661 at (16.842365366791256, 66.7531999805212, 239.362641582482)
+[21:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[21:27:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kicked perrito-malvado from the game
+[21:27:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Kicked by an operator.
+[21:27:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[21:27:53] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[21:27:53] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[21:27:53] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[21:27:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:46661] logged in with entity id 355789 at (-33.211205655881116, 64.0, 241.97738679532142)
+[21:27:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[21:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> gg
+[21:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> es putito
