@@ -4939,3 +4939,29 @@
 [21:50:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:51:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [21:51:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:52:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:53:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:54:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> zzz
+[21:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> z
+[21:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> z
+[21:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> z
+[21:55:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:56:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:57:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:57:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:58:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:59:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:00:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:00:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:00:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[22:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[22:01:00] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[22:01:00] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[22:01:00] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[22:01:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:46525] logged in with entity id 393024 at (51.87847366472066, 70.0, 232.87977122197904)
+[22:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[22:01:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved wrongly!
+[22:01:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:02:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
