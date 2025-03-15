@@ -81,3 +81,11 @@
 [18:15:10] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
 [18:15:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:44501] logged in with entity id 364 at (552.819169360028, 75.5625, 133.124038008246)
 [18:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[18:21:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved too quickly! -14.636101812151907,-11.280713852402087,1.869084076113296
+[18:22:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[18:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[18:22:59] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[18:22:59] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[18:22:59] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[18:22:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:52615] logged in with entity id 22205 at (67.9612911890214, 72.0, 256.1424712653016)
+[18:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
