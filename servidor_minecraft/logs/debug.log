@@ -5110,3 +5110,32 @@
 [23:00:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:01:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:02:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:03:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:03:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[23:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[23:03:48] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[23:03:48] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[23:03:48] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[23:03:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:47827] logged in with entity id 466492 at (-42.45481259454124, 63.0, 227.3573186137678)
+[23:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[23:03:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:04:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
+[23:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[23:04:21] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[23:04:21] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[23:04:21] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[23:04:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:43669] logged in with entity id 466856 at (-42.45481259454124, 63.0, 227.3573186137678)
+[23:04:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[23:04:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:05:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:06:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:07:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was blown up by Creeper
+[23:08:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved too quickly! 9.510646097751373,0.2538907259487644,-3.588968219043835
+[23:09:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:09:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:10:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:11:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:12:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

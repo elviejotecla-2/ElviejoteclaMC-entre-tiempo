@@ -352,3 +352,19 @@
 [22:48:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [22:48:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:45999] logged in with entity id 447704 at (47.57595715899925, 69.0, 229.82912338720226)
 [22:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[23:03:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[23:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[23:03:48] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[23:03:48] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[23:03:48] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[23:03:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:47827] logged in with entity id 466492 at (-42.45481259454124, 63.0, 227.3573186137678)
+[23:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[23:04:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
+[23:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[23:04:21] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[23:04:21] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[23:04:21] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[23:04:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:43669] logged in with entity id 466856 at (-42.45481259454124, 63.0, 227.3573186137678)
+[23:04:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[23:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was blown up by Creeper
+[23:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved too quickly! 9.510646097751373,0.2538907259487644,-3.588968219043835
