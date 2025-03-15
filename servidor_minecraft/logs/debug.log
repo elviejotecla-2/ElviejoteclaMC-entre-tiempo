@@ -4347,3 +4347,91 @@
 [18:59:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:00:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:00:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:01:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado hit the ground too hard
+[19:02:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:03:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado fell from a high place
+[19:03:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado fell from a high place
+[19:04:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:05:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:06:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:06:48] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:06:48] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:06:48] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:06:49] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:06:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:06:49] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[19:06:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:06:49] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[19:06:49] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:06:49] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[19:06:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:06:54] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[19:06:54] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:06:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
+[19:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:06:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:07:04] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:07:04] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:07:04] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:07:05] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:07:05] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[19:07:05] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[19:07:05] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:07:05] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: WAITINGCACK
+[19:07:05] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:07:05] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: COMPLETE
+[19:07:07] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:07:07] [Netty Epoll Server IO #6/DEBUG] [FML]:   Next: DONE
+[19:07:07] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:07:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:07:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:55191] logged in with entity id 133415 at (551.7967512456013, 75.0, 134.90290585066072)
+[19:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[19:07:07] [Netty Epoll Server IO #6/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> hola bro
+[19:07:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
+[19:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:07:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:07:50] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:07:50] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:07:50] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:07:51] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:07:51] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:07:51] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[19:07:51] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:07:51] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[19:07:51] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:07:51] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[19:07:52] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:07:52] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[19:07:52] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:07:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:07:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:54701] logged in with entity id 135742 at (551.7967512456013, 75.0, 134.90290585066072)
+[19:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[19:07:52] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:08:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:09:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
+[19:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:09:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:09:25] [Server thread/TRACE] [FML]: Handshake channel activating
+[19:09:25] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[19:09:25] [Server thread/DEBUG] [FML]:   Next: HELLO
+[19:09:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[19:09:26] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:09:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:4 mods->FMLHandshakeServerState$2:HELLO
+[19:09:26] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:09:26] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[19:09:26] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[19:09:26] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[19:09:27] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[19:09:27] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[19:09:27] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[19:09:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:09:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:54537] logged in with entity id 139550 at (551.2351420323763, 75.0, 137.2244576167799)
+[19:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[19:09:27] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[19:09:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:10:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:11:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

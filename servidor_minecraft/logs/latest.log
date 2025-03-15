@@ -90,3 +90,30 @@
 [18:22:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:52615] logged in with entity id 22205 at (67.9612911890214, 72.0, 256.1424712653016)
 [18:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
 [18:32:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved too quickly! -10.116116346333726,-0.8787031594607981,-0.38569539473763825
+[19:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado hit the ground too hard
+[19:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado fell from a high place
+[19:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado fell from a high place
+[19:06:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:06:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:06:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
+[19:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:07:05] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[19:07:05] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:07:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:07:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:55191] logged in with entity id 133415 at (551.7967512456013, 75.0, 134.90290585066072)
+[19:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[19:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> hola bro
+[19:07:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
+[19:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:07:51] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[19:07:51] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:07:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:07:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:54701] logged in with entity id 135742 at (551.7967512456013, 75.0, 134.90290585066072)
+[19:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[19:09:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
+[19:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[19:09:26] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:09:26] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[19:09:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:09:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:54537] logged in with entity id 139550 at (551.2351420323763, 75.0, 137.2244576167799)
+[19:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
