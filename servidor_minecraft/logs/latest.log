@@ -73,3 +73,9 @@
 [17:06:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [17:06:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:36949] logged in with entity id 162 at (554.4492717371437, 76.0, 136.52410208763018)
 [17:06:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[17:13:04] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[17:13:04] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[17:13:04] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[17:13:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:39917] logged in with entity id 8322 at (553.095912620734, 75.0, 133.6906551896528)
+[17:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[17:14:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -2.1277009048408217,-9.603358372205882,2.3128573647764625
