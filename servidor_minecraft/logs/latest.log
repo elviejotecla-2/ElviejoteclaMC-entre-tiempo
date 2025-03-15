@@ -281,3 +281,17 @@
 [21:27:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
 [21:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> gg
 [21:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> es putito
+[21:35:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
+[21:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[21:35:50] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[21:35:50] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[21:35:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:35:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:36643] logged in with entity id 365029 at (-19.867048342429765, 64.0, 244.33431252066765)
+[21:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[21:36:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
+[21:36:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[21:36:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:36:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[21:36:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:36:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:57567] logged in with entity id 366015 at (-19.867048342429765, 64.0, 244.33431252066765)
+[21:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
