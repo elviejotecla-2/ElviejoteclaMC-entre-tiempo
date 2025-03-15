@@ -245,3 +245,12 @@
 [20:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
 [20:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> gg
 [20:55:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> ez
+[21:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> Ez
+[21:05:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> DEA
+[21:11:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
+[21:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
+[21:11:46] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[21:11:46] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
+[21:11:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:11:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:34827] logged in with entity id 336865 at (58.66616322484316, 67.0, 235.430295950175)
+[21:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
