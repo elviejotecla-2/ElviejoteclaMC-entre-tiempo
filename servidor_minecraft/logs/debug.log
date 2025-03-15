@@ -4530,3 +4530,24 @@
 [19:30:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:30:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [19:31:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:32:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:33:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[19:33:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[19:33:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:33:37] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[19:33:37] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[19:33:37] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[19:33:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:42873] logged in with entity id 181322 at (62.9047213605353, 71.5625, 239.83477158301542)
+[19:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[19:33:41] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@2c8cc994[id=<null>,name=perrito-malvado,properties={},legacy=false] (/127.121.128.34:57231) lost connection: Disconnected
+[19:33:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:34:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:35:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:36:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:36:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:37:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:38:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:39:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:39:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:40:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[19:41:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
