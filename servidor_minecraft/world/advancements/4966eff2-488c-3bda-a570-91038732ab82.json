@@ -254,6 +254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-03-15 20:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-03-07 21:23:08 +0000"
@@ -354,6 +360,12 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-03-07 18:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-03-15 20:06:33 +0000"
     },
     "done": true
   },
@@ -567,6 +579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-03-15 20:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2025-03-07 18:51:36 +0000"
@@ -674,6 +692,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-03-08 15:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-15 20:03:40 +0000"
     },
     "done": true
   },
@@ -818,6 +842,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-03-08 15:40:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
+    "criteria": {
+      "has_bonemeal": "2025-03-15 20:06:33 +0000"
     },
     "done": true
   },
@@ -1115,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_bonemeal": "2025-03-15 20:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-03-07 20:52:18 +0000",
@@ -1332,6 +1368,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_block": {
+    "criteria": {
+      "has_the_recipe": "2025-03-15 20:06:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_stone": "2025-03-08 21:40:39 +0000"
@@ -1371,6 +1413,12 @@
   "minecraft:recipes/decorations/slime": {
     "criteria": {
       "has_at_least_9_slime_ball": "2025-03-08 15:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_at_least_9_bonemeal": "2025-03-15 20:06:33 +0000"
     },
     "done": true
   }
