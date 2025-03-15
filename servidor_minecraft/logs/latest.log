@@ -295,3 +295,19 @@
 [21:36:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
 [21:36:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:57567] logged in with entity id 366015 at (-19.867048342429765, 64.0, 244.33431252066765)
 [21:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
+[21:44:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado was kicked for floating too long!
+[21:44:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Flying is not enabled on this server
+[21:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[21:44:57] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[21:44:57] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[21:44:57] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[21:44:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:60519] logged in with entity id 372890 at (64.5, 71.0999984741211, 241.5)
+[21:44:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[21:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> fly
+[21:48:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[21:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[21:48:30] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[21:48:30] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[21:48:30] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[21:48:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:39387] logged in with entity id 377297 at (58.30000001192093, 67.0, 235.30000001192093)
+[21:48:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
