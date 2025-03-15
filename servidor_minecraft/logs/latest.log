@@ -1,114 +1,83 @@
-[17:35:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:35:34] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:35:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:35:34] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[17:35:34] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[17:35:34] [main/INFO] [FML]: Searching /workspaces/ElviejoteclaMC-entre-tiempo/servidor_minecraft/./mods for mods
-[17:35:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:35:34] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:35:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:35:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:35:34] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:35:36] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[17:35:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:35:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:35:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:35:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:35:37] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[17:35:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[17:35:40] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[17:35:40] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[17:35:41] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[17:35:41] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[17:35:41] [Server thread/INFO] [FML]: Searching /workspaces/ElviejoteclaMC-entre-tiempo/servidor_minecraft/./mods for mods
-[17:35:41] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[17:35:42] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[17:35:42] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[17:35:42] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[17:35:42] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[17:35:42] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[17:35:42] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[17:35:42] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[17:35:42] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[17:35:42] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[17:35:42] [Server thread/INFO] [FML]: Applying holder lookups
-[17:35:42] [Server thread/INFO] [FML]: Holder lookups applied
-[17:35:42] [Server thread/INFO] [FML]: Applying holder lookups
-[17:35:42] [Server thread/INFO] [FML]: Holder lookups applied
-[17:35:42] [Server thread/INFO] [FML]: Applying holder lookups
-[17:35:42] [Server thread/INFO] [FML]: Holder lookups applied
-[17:35:42] [Server thread/INFO] [FML]: Applying holder lookups
-[17:35:42] [Server thread/INFO] [FML]: Holder lookups applied
-[17:35:42] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:35:42] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[17:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[17:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[17:35:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[17:35:43] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[17:35:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:35:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[17:35:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:35:43] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:35:43] [Server thread/INFO] [FML]: Applying holder lookups
-[17:35:43] [Server thread/INFO] [FML]: Holder lookups applied
-[17:35:43] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:35:43] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:35:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[17:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[17:35:43] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[17:35:43] [Server thread/INFO] [FML]: Applying holder lookups
-[17:35:43] [Server thread/INFO] [FML]: Holder lookups applied
-[17:35:44] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[17:35:44] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@35f9b14b)
-[17:35:44] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[17:35:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[17:35:44] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[17:35:44] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@35f9b14b)
-[17:35:44] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@35f9b14b)
-[17:35:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[17:35:45] [Netty Epoll Server IO #3/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
-[17:35:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 37%
-[17:35:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (3.038s)! For help, type "help" or "?"
-[17:35:46] [Server thread/INFO] [FML]: Unloading dimension -1
-[17:35:46] [Server thread/INFO] [FML]: Unloading dimension 1
-[17:35:56] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[17:35:56] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[17:35:56] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[17:35:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:35847] logged in with entity id 210 at (553.0531181458895, 75.0, 133.6607854032647)
-[17:35:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[17:36:01] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[17:36:01] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[17:36:02] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:36:02] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:54905] logged in with entity id 520 at (64.97931915642448, 71.0, 253.52141769716096)
-[17:36:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[17:36:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue was shot by Skeleton
-[17:40:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> ayudaaaaaa
-[17:40:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[17:40:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[17:40:53] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[17:40:53] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[17:40:53] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[17:40:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:44745] logged in with entity id 8326 at (552.299999974668, 75.6875, 131.30000001192093)
-[17:40:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[17:40:59] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[17:40:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[17:41:04] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[17:41:04] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[17:41:04] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[17:41:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:44405] logged in with entity id 8609 at (552.2375000119209, 75.0, 131.99826924816333)
-[17:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[17:41:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[17:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[17:41:55] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[17:41:55] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[17:41:55] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[17:41:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:54987] logged in with entity id 9440 at (552.7453230249645, 75.0, 137.6760154992285)
-[17:41:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[17:53:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[17:53:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[17:55:13] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[17:55:13] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[17:55:13] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[17:55:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:55395] logged in with entity id 32980 at (510.3745915310249, 11.0, 242.4212352845635)
-[17:55:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[18:11:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:11:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18:11:16] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18:11:16] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[18:11:16] [main/INFO] [FML]: Searching /workspaces/ElviejoteclaMC-entre-tiempo/servidor_minecraft/./mods for mods
+[18:11:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:11:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:11:18] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[18:11:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[18:11:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[18:11:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:11:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[18:11:18] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[18:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[18:11:21] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[18:11:21] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[18:11:21] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[18:11:21] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[18:11:22] [Server thread/INFO] [FML]: Searching /workspaces/ElviejoteclaMC-entre-tiempo/servidor_minecraft/./mods for mods
+[18:11:22] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
+[18:11:22] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[18:11:22] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[18:11:22] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[18:11:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[18:11:22] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
+[18:11:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[18:11:22] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[18:11:22] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[18:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
+[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
+[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
+[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
+[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
+[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
+[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
+[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
+[18:11:22] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:11:22] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:11:23] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:11:23] [Server thread/INFO] [FML]: Applying holder lookups
+[18:11:23] [Server thread/INFO] [FML]: Holder lookups applied
+[18:11:23] [Server thread/INFO] [FML]: Injecting itemstacks
+[18:11:23] [Server thread/INFO] [FML]: Itemstack injection complete
+[18:11:23] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
+[18:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:11:23] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[18:11:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[18:11:23] [Server thread/INFO] [FML]: Applying holder lookups
+[18:11:23] [Server thread/INFO] [FML]: Holder lookups applied
+[18:11:23] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@d6e7614)
+[18:11:23] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
+[18:11:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@d6e7614)
+[18:11:23] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@d6e7614)
+[18:11:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[18:11:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
+[18:11:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.881s)! For help, type "help" or "?"
+[18:11:25] [Server thread/INFO] [FML]: Unloading dimension -1
+[18:11:25] [Server thread/INFO] [FML]: Unloading dimension 1
+[18:11:49] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[18:11:49] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[18:11:49] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[18:11:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:47461] logged in with entity id 158 at (552.819169360028, 75.5625, 133.124038008246)
+[18:11:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
+[18:11:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
+[18:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[18:15:10] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
+[18:15:10] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
+[18:15:10] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
+[18:15:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:44501] logged in with entity id 364 at (552.819169360028, 75.5625, 133.124038008246)
+[18:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
