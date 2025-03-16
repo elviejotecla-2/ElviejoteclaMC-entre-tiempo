@@ -1,381 +1,108 @@
-[18:11:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:11:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[18:11:16] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[18:11:16] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_442, running on Linux:amd64:6.8.0-1021-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[18:11:16] [main/INFO] [FML]: Searching /workspaces/ElviejoteclaMC-entre-tiempo/servidor_minecraft/./mods for mods
-[18:11:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:11:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[18:11:16] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:11:18] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[18:11:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[18:11:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[18:11:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:11:18] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[18:11:18] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[18:11:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[18:11:21] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[18:11:21] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[18:11:21] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[18:11:21] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[18:11:22] [Server thread/INFO] [FML]: Searching /workspaces/ElviejoteclaMC-entre-tiempo/servidor_minecraft/./mods for mods
-[18:11:22] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[18:11:22] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[18:11:22] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[18:11:22] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[18:11:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[18:11:22] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[18:11:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[18:11:22] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[18:11:22] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[18:11:22] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
-[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
-[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
-[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
-[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
-[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
-[18:11:22] [Server thread/INFO] [FML]: Applying holder lookups
-[18:11:22] [Server thread/INFO] [FML]: Holder lookups applied
-[18:11:22] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:11:22] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[18:11:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[18:11:23] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:11:23] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:11:23] [Server thread/INFO] [FML]: Applying holder lookups
-[18:11:23] [Server thread/INFO] [FML]: Holder lookups applied
-[18:11:23] [Server thread/INFO] [FML]: Injecting itemstacks
-[18:11:23] [Server thread/INFO] [FML]: Itemstack injection complete
-[18:11:23] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[18:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[18:11:23] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[18:11:23] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[18:11:23] [Server thread/INFO] [FML]: Applying holder lookups
-[18:11:23] [Server thread/INFO] [FML]: Holder lookups applied
-[18:11:23] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@d6e7614)
-[18:11:23] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[18:11:23] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@d6e7614)
-[18:11:23] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@d6e7614)
-[18:11:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[18:11:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 76%
-[18:11:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (1.881s)! For help, type "help" or "?"
-[18:11:25] [Server thread/INFO] [FML]: Unloading dimension -1
-[18:11:25] [Server thread/INFO] [FML]: Unloading dimension 1
-[18:11:49] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[18:11:49] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[18:11:49] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[18:11:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:47461] logged in with entity id 158 at (552.819169360028, 75.5625, 133.124038008246)
-[18:11:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[18:11:58] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[18:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[18:15:10] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[18:15:10] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[18:15:10] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[18:15:10] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:44501] logged in with entity id 364 at (552.819169360028, 75.5625, 133.124038008246)
-[18:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[18:21:45] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved too quickly! -14.636101812151907,-11.280713852402087,1.869084076113296
-[18:22:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[18:22:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[18:22:59] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[18:22:59] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[18:22:59] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[18:22:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:52615] logged in with entity id 22205 at (67.9612911890214, 72.0, 256.1424712653016)
-[18:22:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[18:32:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved too quickly! -10.116116346333726,-0.8787031594607981,-0.38569539473763825
-[19:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado hit the ground too hard
-[19:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado fell from a high place
-[19:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado fell from a high place
-[19:06:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[19:06:49] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[19:06:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[19:06:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[19:07:05] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[19:07:05] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[19:07:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:07:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:55191] logged in with entity id 133415 at (551.7967512456013, 75.0, 134.90290585066072)
-[19:07:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[19:07:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> hola bro
-[19:07:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
-[19:07:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[19:07:51] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[19:07:51] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[19:07:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:07:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:54701] logged in with entity id 135742 at (551.7967512456013, 75.0, 134.90290585066072)
-[19:07:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[19:09:07] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
-[19:09:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[19:09:26] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[19:09:26] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[19:09:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:09:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:54537] logged in with entity id 139550 at (551.2351420323763, 75.0, 137.2244576167799)
-[19:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[19:14:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -17.42770885662639,-1.7526735005253613,3.350984168841819
-[19:15:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:15:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:16:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:16:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:16:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[19:16:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:17:04] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:17:04] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:17:04] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:17:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:55859] logged in with entity id 158883 at (68.5, 72.0, 260.5)
-[19:17:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[19:17:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Game rule spawnRadius has been updated to 0
-[19:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:21:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:21:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:21:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by M1Abrams_Figue
-[19:22:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[19:22:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[19:22:53] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[19:22:53] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[19:22:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:22:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:42153] logged in with entity id 166017 at (65.74368142353327, 72.0, 241.81509098550845)
-[19:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[19:25:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! 3.4142402611784064,-1.0,9.560768905538424
-[19:25:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
-[19:25:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[19:26:17] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[19:26:17] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[19:26:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:26:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:55507] logged in with entity id 170407 at (65.19928585259116, 72.0, 246.9698828461052)
-[19:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[19:28:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -3.3307762730060233,2.249187078744683,-9.383197172476969
-[19:28:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -10.087005021959015,-0.8378585789729982,-0.035576563561335206
-[19:29:37] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado was kicked for floating too long!
-[19:29:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Flying is not enabled on this server
-[19:29:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:29:53] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:29:53] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:29:53] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:29:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:47147] logged in with entity id 175626 at (65.08660152097787, 72.00133597911214, 247.8465637382601)
-[19:29:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[19:33:05] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[19:33:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:33:37] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:33:37] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:33:37] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:33:37] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:42873] logged in with entity id 181322 at (62.9047213605353, 71.5625, 239.83477158301542)
-[19:33:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[19:33:41] [Server thread/INFO] [net.minecraft.server.network.NetHandlerLoginServer]: com.mojang.authlib.GameProfile@2c8cc994[id=<null>,name=perrito-malvado,properties={},legacy=false] (/127.121.128.34:57231) lost connection: Disconnected
-[19:41:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[19:41:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:42:00] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:42:00] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:42:00] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:42:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:46663] logged in with entity id 193445 at (62.30000001192093, 71.0, 241.48332933442953)
-[19:42:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[19:46:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[19:46:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:46:18] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:46:18] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:46:18] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:46:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:35123] logged in with entity id 202078 at (549.2495256542417, 75.0, 160.3205967235434)
-[19:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[19:48:34] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[19:48:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:48:38] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:48:38] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:48:38] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:48:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:60057] logged in with entity id 206949 at (550.5440079460966, 75.0, 137.9485097650836)
-[19:48:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[19:51:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado has made the advancement [What a Deal!]
-[19:52:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[19:52:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:52:26] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:52:26] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:52:26] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:52:26] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:58899] logged in with entity id 215183 at (67.00255813150591, 71.0, 232.69999998807907)
-[19:52:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[19:56:11] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[19:56:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[19:56:29] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[19:56:29] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[19:56:29] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[19:56:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:48655] logged in with entity id 220220 at (65.40971810318477, 75.67647087614428, 232.60026893069633)
-[19:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[20:03:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue has made the advancement [What a Deal!]
-[20:06:00] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! 17.042063786262588,-1.9340792740089938,-5.274402758301505
-[20:07:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -10.961831631519772,7.616041480164128,12.378127479663902
-[20:08:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[20:08:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[20:08:33] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[20:08:33] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[20:08:33] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[20:08:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:38249] logged in with entity id 236055 at (66.01241000472565, 71.0, 241.0545837417201)
-[20:08:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[20:08:46] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -16.452793116511486,4.175786972464024,5.964746024097025
-[20:14:43] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[20:21:54] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -10.3467988167547,13.926142479494388,4.517734311212081
-[20:22:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -17.687827727803835,-0.8366809267660642,5.276778249691461
-[20:22:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved too quickly! -16.383515476413095,4.147868594857911,4.877397356251805
-[20:26:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[20:26:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[20:26:59] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[20:26:59] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[20:26:59] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[20:26:59] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:57255] logged in with entity id 281282 at (63.745349049007956, 71.0, 233.74963038363165)
-[20:26:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[20:30:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[20:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[20:30:09] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[20:30:09] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[20:30:09] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[20:30:09] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:44003] logged in with entity id 285084 at (63.76152110867862, 72.15607452558592, 237.2651329726514)
-[20:30:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[20:40:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> dale broooo
-[20:40:59] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved wrongly!
-[20:41:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[20:41:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[20:41:18] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[20:41:18] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[20:41:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[20:41:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:43319] logged in with entity id 296650 at (67.71681468655245, 71.0, 248.82118901905363)
-[20:41:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[20:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> gg
-[20:55:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> ez
-[21:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> Ez
-[21:05:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> DEA
-[21:11:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[21:11:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[21:11:46] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[21:11:46] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[21:11:47] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:11:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:34827] logged in with entity id 336865 at (58.66616322484316, 67.0, 235.430295950175)
-[21:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[21:14:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> cv puto el roqui
-[21:16:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> gg
-[21:25:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue was kicked for floating too long!
-[21:25:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Flying is not enabled on this server
-[21:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[21:26:02] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[21:26:02] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[21:26:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:26:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:35979] logged in with entity id 353424 at (16.842365366791256, 66.7531999805212, 239.362641582482)
-[21:26:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[21:26:19] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
-[21:26:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[21:26:35] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[21:26:35] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[21:26:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:26:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:58239] logged in with entity id 354661 at (16.842365366791256, 66.7531999805212, 239.362641582482)
-[21:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[21:27:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Kicked perrito-malvado from the game
-[21:27:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Kicked by an operator.
-[21:27:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[21:27:53] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[21:27:53] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[21:27:53] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[21:27:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:46661] logged in with entity id 355789 at (-33.211205655881116, 64.0, 241.97738679532142)
-[21:27:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[21:28:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> gg
-[21:29:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> es putito
-[21:35:43] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[21:35:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[21:35:50] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[21:35:50] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[21:35:52] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:35:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:36643] logged in with entity id 365029 at (-19.867048342429765, 64.0, 244.33431252066765)
-[21:35:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[21:36:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[21:36:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[21:36:57] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[21:36:57] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[21:36:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[21:36:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:57567] logged in with entity id 366015 at (-19.867048342429765, 64.0, 244.33431252066765)
-[21:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[21:44:49] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado was kicked for floating too long!
-[21:44:49] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Flying is not enabled on this server
-[21:44:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[21:44:57] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[21:44:57] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[21:44:57] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[21:44:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:60519] logged in with entity id 372890 at (64.5, 71.0999984741211, 241.5)
-[21:44:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[21:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <M1Abrams_Figue> fly
-[21:48:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[21:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[21:48:30] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[21:48:30] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[21:48:30] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[21:48:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:39387] logged in with entity id 377297 at (58.30000001192093, 67.0, 235.30000001192093)
-[21:48:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[21:55:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> zzz
-[21:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> z
-[21:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> z
-[21:55:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> z
-[22:00:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[22:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[22:01:00] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[22:01:00] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[22:01:00] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[22:01:00] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:46525] logged in with entity id 393024 at (51.87847366472066, 70.0, 232.87977122197904)
-[22:01:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[22:01:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue moved wrongly!
-[22:06:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <perrito-malvado> awwdawdawdawdawdawdawdawdawdawdddwaawddwaawddwaawddwaawddwaawddwa
-[22:12:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[22:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[22:12:21] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[22:12:21] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[22:12:21] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[22:12:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:33413] logged in with entity id 407034 at (-27.086560362056332, 65.0, 234.32996882379993)
-[22:12:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[22:22:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[22:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[22:44:38] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[22:44:38] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[22:44:40] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:44:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:35591] logged in with entity id 445508 at (43.85428824117745, 68.0, 215.8998836238886)
-[22:44:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[22:44:55] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Timed out
-[22:44:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[22:45:18] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[22:45:18] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[22:45:19] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:45:19] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:44109] logged in with entity id 445957 at (43.85428824117745, 68.0, 215.8998836238886)
-[22:45:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[22:47:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: M1Abrams_Figue lost connection: Disconnected
-[22:47:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue left the game
-[22:48:26] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[22:48:26] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 4 mods : minecraft@1.12.2,FML@8.0.99.99,forge@14.23.5.2860,mcp@9.42
-[22:48:27] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[22:48:27] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: M1Abrams_Figue[/127.164.88.21:45999] logged in with entity id 447704 at (47.57595715899925, 69.0, 229.82912338720226)
-[22:48:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: M1Abrams_Figue joined the game
-[23:03:45] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[23:03:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[23:03:48] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[23:03:48] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[23:03:48] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[23:03:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:47827] logged in with entity id 466492 at (-42.45481259454124, 63.0, 227.3573186137678)
-[23:03:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[23:04:03] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[23:04:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[23:04:21] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[23:04:21] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[23:04:21] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[23:04:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:43669] logged in with entity id 466856 at (-42.45481259454124, 63.0, 227.3573186137678)
-[23:04:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[23:08:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was blown up by Creeper
-[23:08:27] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado moved too quickly! 9.510646097751373,0.2538907259487644,-3.588968219043835
-[23:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by Iron Golem
-[23:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado was slain by Iron Golem
-[23:13:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Timed out
-[23:13:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
-[23:14:12] [Server thread/INFO] [FML]: Connection received without FML marker, assuming vanilla.
-[23:14:12] [Server thread/INFO] [FML]: Opening channel which already seems to have a state set. This is a vanilla connection. Handshake handler will stop now
-[23:14:12] [Server thread/INFO] [FML]: [Server thread] Server side vanilla connection established
-[23:14:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: perrito-malvado[/127.121.128.34:34151] logged in with entity id 477997 at (60.49615315760286, 72.17675927506424, 251.34444672750374)
-[23:14:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado joined the game
-[23:22:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: perrito-malvado lost connection: Disconnected
-[23:22:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: perrito-malvado left the game
+[03:02:27] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[03:02:27] [Server thread/INFO]: Loading properties
+[03:02:27] [Server thread/INFO]: Default game type: SURVIVAL
+[03:02:27] [Server thread/INFO]: This server is running Paper version git-Paper-1620 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[03:02:27] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:02:27] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:02:27] [Server thread/INFO]: Debug logging is disabled
+[03:02:27] [Server thread/INFO]: Generating keypair
+[03:02:27] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:02:27] [Server thread/INFO]: Using epoll channel type
+[03:02:27] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[03:02:27] [Server thread/INFO]: Preparing level "world"
+[03:02:27] [Server thread/INFO]: -------- World Settings For [world] --------
+[03:02:27] [Server thread/INFO]: Mob Spawn Range: 4
+[03:02:27] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:02:27] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[03:02:27] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:02:27] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:02:27] [Server thread/INFO]: Random Lighting Updates: false
+[03:02:27] [Server thread/INFO]: Structure Info Saving: true
+[03:02:27] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:02:27] [Server thread/INFO]: Max TNT Explosions: 100
+[03:02:27] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:02:27] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:02:27] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:02:27] [Server thread/INFO]: View Distance: 10
+[03:02:27] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[03:02:27] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:02:27] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:02:27] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:02:27] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:02:28] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[03:02:28] [Server thread/INFO]: Mob Spawn Range: 4
+[03:02:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[03:02:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:02:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:02:28] [Server thread/INFO]: Random Lighting Updates: false
+[03:02:28] [Server thread/INFO]: Structure Info Saving: true
+[03:02:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:02:28] [Server thread/INFO]: Max TNT Explosions: 100
+[03:02:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:02:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:02:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:02:28] [Server thread/INFO]: View Distance: 10
+[03:02:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[03:02:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:02:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:02:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:02:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:02:28] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[03:02:28] [Server thread/INFO]: Mob Spawn Range: 4
+[03:02:28] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Cane Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Melon Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Vine Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[03:02:28] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16 / Tiv true
+[03:02:28] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[03:02:28] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[03:02:28] [Server thread/INFO]: Random Lighting Updates: false
+[03:02:28] [Server thread/INFO]: Structure Info Saving: true
+[03:02:28] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[03:02:28] [Server thread/INFO]: Max TNT Explosions: 100
+[03:02:28] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[03:02:28] [Server thread/INFO]: Item Merge Radius: 2.5
+[03:02:28] [Server thread/INFO]: Item Despawn Rate: 6000
+[03:02:28] [Server thread/INFO]: View Distance: 10
+[03:02:28] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[03:02:28] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[03:02:28] [Server thread/INFO]: Experience Merge Radius: 3.0
+[03:02:28] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[03:02:28] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[03:02:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2574876602039709385)
+[03:02:29] [Server thread/INFO]: Preparing spawn area: 14%
+[03:02:30] [Server thread/INFO]: Preparing spawn area: 35%
+[03:02:30] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2574876602039709385)
+[03:02:31] [Server thread/INFO]: Preparing spawn area: 22%
+[03:02:32] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2574876602039709385)
+[03:02:33] [Server thread/INFO]: Done (5.390s)! For help, type "help" or "?"
+[03:02:33] [Server thread/INFO]: Timings Reset
+[03:03:15] [User Authenticator #1/INFO]: UUID of player M1Abrams_Figue is 032a671f-6872-4750-97d5-f4c471279b00
+[03:03:15] [Server thread/INFO]: M1Abrams_Figue[/127.181.189.40:51785] logged in with entity id 819 at ([world]-224.5, 41.0, 156.5)
+[03:03:47] [Server thread/INFO]: M1Abrams_Figue lost connection: Disconnected
+[03:03:47] [Server thread/INFO]: M1Abrams_Figue left the game
